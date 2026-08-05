@@ -1,0 +1,3 @@
+Name : guna
+BMI : 24.97
+Category : Normal Weight
